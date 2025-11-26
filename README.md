@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL (HMS)
 Project on Bio-Medical &amp; Hospital sector which is covering various field of this 3 sector.This project is using Spring Framework, Hibernate, JPA, Rest, JSP also with (Post-Dev Data-Science, Big-data, ML etc. ) [ for Hackathon, CSI &amp; SIH]
 
@@ -169,3 +170,7 @@ Released under the Apache License 2.0. See the [LICENSE](https://github.com/code
 - [Ofline Route Builder & DTN (On progress)](https://github.com/soumyadip007/Offline-Route-Builder-DTN-Messenger-Android-GPS-OSM)
 
 # #Wiki: https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL/wiki
+=======
+# SpringJpaMedSystem_Test
+Testing CIA and Logs..
+>>>>>>> 28b47e3e6114e1492b3ab6b3c2945a66440bbfcc
